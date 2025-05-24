@@ -1,0 +1,11 @@
+customerid,name,age,purchaseamount,purchasedate
+101,John Doe,35.0,120.5,2025-05-10
+102,Jane Smith,35.0,200.75,2025-05-12
+103,Sam O'Neil,40.0,,2025-05-11
+104,Maria Gonzales,28.0,,2025-05-10
+105,Chris Johnson,35.0,310.2,2025-05-09
+106,Anna Lee,27.0,115.0,
+107,Mike Brown,42.0,250.99,2025-05-14
+108,Unknown,30.0,99.99,2025-05-15
+109,David White,38.0,,2025-05-16
+110,Sophia Black,35.0,180.0,2025-05-17
