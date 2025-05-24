@@ -11,4 +11,4 @@ df.fillna({"name": "Unknown", "age": df["age"].median(), "purchase_amount": 0}, 
 # Convert purchase date to uniform format
 df["purchasedate"] = pd.to_datetime(df["purchasedate"], errors="coerce")
 
-df.to_csv("final_data.csv", index=False)
+df.to_json("final_data.csv", index=False)
